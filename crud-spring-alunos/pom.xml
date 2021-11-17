@@ -8,6 +8,7 @@
 		<version>2.5.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+<<<<<<< HEAD
 	<groupId>br.edu.gotasdetecnologia</groupId>
 	<artifactId>crud-spring-alunos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
@@ -15,6 +16,15 @@
 	<description>Gerencia de Alunos com Spring e Thymeleaf</description>
 	<properties>
 		<java.version>11</java.version>
+=======
+	<groupId>br.com.cidade_hub</groupId>
+	<artifactId>crud-spring-alunos</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>crud-spring-alunos</name>
+	<description>Gerencia de Alunos com Spring e Thymeleaf</description>
+	<properties>
+		<java.version>1.8</java.version>
+>>>>>>> branch 'master' of https://github.com/Catarino-prog/crud-spring-alunos.git
 	</properties>
 	<dependencies>
 		<dependency>
